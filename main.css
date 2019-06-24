@@ -1,0 +1,21 @@
+body{
+    background-image: url('campo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#spaceship{
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 50px;
+}
+p#points{
+    font-size: 24px;
+    color:white;
+}
+#sprite{
+    position: fixed;
+    top: 0;
+    height: 25px;
+    width: 25px;
+}
